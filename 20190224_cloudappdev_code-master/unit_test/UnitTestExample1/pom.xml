@@ -21,7 +21,7 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Set JUnit version, used later in plug-in -->
-        <junit.version>3.8.2</junit.version>
+        <junit.version>4.13.1</junit.version>
     </properties>
 
     <dependencies>
