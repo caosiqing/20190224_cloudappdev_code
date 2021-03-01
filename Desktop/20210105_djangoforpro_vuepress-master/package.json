@@ -1,0 +1,19 @@
+{
+  "name": "20210105_djangoforpro_vuepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "docs/index.js",
+  "author": "bobyuan",
+  "license": "ISC",
+  "repository": "https://gitlab.com/bobyuan/20210105_djangoforpro_vuepress.git",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "keywords": [],
+  "dependencies": {
+    "vuepress": "1.8.0"
+  },
+  "devDependencies": {}
+}
